@@ -21,5 +21,8 @@ Aston Martin
 Lotus
 Mini Cooper
 McLaren
+Renault
+Peugeot
+Seat
 
 
